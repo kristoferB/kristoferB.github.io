@@ -1,28 +1,5 @@
 /* === color === */
-.bannertext {
-	text-align:center;
-	margin-top: 50px;
-}
 
-.caselogo {
-	text-align:center;
-	color: #222;
-	text-transform: uppercase;
-    font-size: 50px;
-    font-weight: 700;
-	letter-spacing: -1px;
-    margin-top: 30px;
-    padding: 0 0 0 15px;
-    line-height: 0.8em;
-}
-
-.caselogo > a.hover{
-	color: #222;
-}
-
-.caselogo span{
-	color: #68A4C4;
-}
 
 
 
